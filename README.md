@@ -27,7 +27,7 @@ npm run build    # Gera o frontend estático em dist/
 npm run preview  # Serve a versão compilada localmente
 ```
 
-Em hospedagem estática, configure fallback das rotas para `index.html` (SPA), inclusive `/encostas/:id` e `/area/:id`. O projeto inclui `.openai/hosting.json` para publicação pelo Sites. Não copie `node_modules`, `.env` ou arquivos privados para a pasta pública.
+O projeto é independente de provedor de hospedagem e pode ser executado localmente. Em hospedagem estática, configure fallback das rotas para `index.html` (SPA), inclusive `/encostas/:id` e `/area/:id`. Não copie `node_modules`, `.env` ou arquivos privados para a pasta pública.
 
 ## Roteiro de apresentação
 
