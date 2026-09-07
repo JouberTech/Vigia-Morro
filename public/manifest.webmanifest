@@ -1,0 +1,20 @@
+{
+  "name": "VigiaMorro — Monitoramento Inteligente de Encostas",
+  "short_name": "VigiaMorro",
+  "description": "Protótipo de monitoramento com dados simulados.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "pt-BR",
+  "background_color": "#f4f6f8",
+  "theme_color": "#102c29",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
